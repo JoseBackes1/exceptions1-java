@@ -42,7 +42,7 @@ public class Program {
 				System.out.println("Reservation: " + reservation);
 			}
 		}
-				
+				 
 		scan.close();
 	
 	}
